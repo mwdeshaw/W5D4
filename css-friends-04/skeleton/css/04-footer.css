@@ -1,0 +1,14 @@
+/* PHASE 4: Footer */
+.content-footer{
+  display: flex;
+  margin: auto;
+  text-align: right;
+  border-top: 1px solid lightgray;
+  position: relative;
+  background: white;
+}
+
+.footer-nav{
+  display: inline-block;
+  padding: 10px;
+}
